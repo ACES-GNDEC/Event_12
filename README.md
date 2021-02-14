@@ -1,1 +1,1 @@
-# Event_Squiz-your-Mind
+# Event_SquizYourMind
